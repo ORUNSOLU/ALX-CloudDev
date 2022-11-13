@@ -1,0 +1,5 @@
+1. Initialize a NODE project.
+2. Edit the project.
+3. The project basically turns any color image into Black & White.
+4. Modify the Node.JS code and host on AWS.
+5. Submit project.
